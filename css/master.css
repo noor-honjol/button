@@ -11,8 +11,13 @@
     border: 1px solid yellowgreen;
     align-content: stretch;
     justify-content: space-around;
+    width: 1200px;
+    margin: auto;
+
 }
 .flex-box img{
     margin: 10px;
     border: 1px solid yellowgreen;
+
+
 }
