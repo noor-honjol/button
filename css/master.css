@@ -1,0 +1,18 @@
+.big-contanier{
+    width:70% ;
+    border: 1px solid yellowgreen;
+    margin: auto;
+    text-align: center;
+}
+.flex-box{
+
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid yellowgreen;
+    align-content: stretch;
+    justify-content: space-around;
+}
+.flex-box img{
+    margin: 10px;
+    border: 1px solid yellowgreen;
+}
